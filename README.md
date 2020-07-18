@@ -1,2 +1,2 @@
-# Medical-Blockchain-Project
-This is a amazing platform Block-chain medical Project
+Face-recogniation-Project
+This is a amazing platform AI fACE-RECOGNIATION-PROJECT Project
